@@ -14,3 +14,7 @@
 	path = odoo-argentina-ee
 	url = https://github.com/quilsoft-org/odoo-argentina-ee.git
 	branch = 13.0
+[submodule "aeroo_reports"]
+	path = aeroo_reports
+	url = https://github.com/ingadhoc/aeroo_reports.git
+	branch = 13.0
